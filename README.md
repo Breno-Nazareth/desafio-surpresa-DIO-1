@@ -4,10 +4,4 @@ Utilizando apenas Vetores e Operadores aritméticos
 
 Crie um código para armazenar o máximo de informações possível dos pokemon da imagem ao lado e ao final, para cada um, exiba uma mensagem de saída escrita o nome do pokemon concatenado com "Cadastrado com sucesso"
 
-Poochyena level 2 Masculino 13/13 <br>
-Zigzagoon level 2 Feminino 13/13 <br>
-Dragonite level 5 Masculino 25/25 <br>
-Dragonite level 5 Feminino 24/24 <br>
-Dragonite level 5 Feminino 24/24 <br>
-Poochyena level 3 Feminino 15/15 <br>
-Wurmple level 2 Masculino 7/14
+<img width="800" height="600" alt="shape_1g-y-1bRKuJKEDAE_-Ga5" src="https://github.com/user-attachments/assets/f2eddca9-33c7-41bd-a5fd-a66ec260c1a5" />
